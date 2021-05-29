@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ruchivora.github.io/csb-354ys/static/css/main.e4af5f53.chunk.css",
+    "main.js": "https://ruchivora.github.io/csb-354ys/static/js/main.b3a962f9.chunk.js",
+    "main.js.map": "https://ruchivora.github.io/csb-354ys/static/js/main.b3a962f9.chunk.js.map",
+    "runtime-main.js": "https://ruchivora.github.io/csb-354ys/static/js/runtime-main.bae212bd.js",
+    "runtime-main.js.map": "https://ruchivora.github.io/csb-354ys/static/js/runtime-main.bae212bd.js.map",
+    "static/js/2.7b4e9142.chunk.js": "https://ruchivora.github.io/csb-354ys/static/js/2.7b4e9142.chunk.js",
+    "static/js/2.7b4e9142.chunk.js.map": "https://ruchivora.github.io/csb-354ys/static/js/2.7b4e9142.chunk.js.map",
+    "index.html": "https://ruchivora.github.io/csb-354ys/index.html",
+    "static/css/main.e4af5f53.chunk.css.map": "https://ruchivora.github.io/csb-354ys/static/css/main.e4af5f53.chunk.css.map",
+    "static/js/2.7b4e9142.chunk.js.LICENSE.txt": "https://ruchivora.github.io/csb-354ys/static/js/2.7b4e9142.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bae212bd.js",
+    "static/js/2.7b4e9142.chunk.js",
+    "static/css/main.e4af5f53.chunk.css",
+    "static/js/main.b3a962f9.chunk.js"
+  ]
+}
